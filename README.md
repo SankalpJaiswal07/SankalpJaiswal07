@@ -31,8 +31,6 @@ Welcome to my little corner of GitHub! 🎨 I'm a passionate developer and desig
 ### 🎮 Fun Facts
 - I’m a gaming enthusiast who loves diving into immersive worlds.
 
----
-
 ### 🎯 Goals for 2024
 - Launch a personal portfolio showcasing my work and design philosophy.
 
