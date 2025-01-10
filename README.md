@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Sankalp Jaiswal
 
-### 👨‍💻 Passionate Frontend Developer | 🎨 UI Enthusiast | 🎮 Gamer
-Welcome to my little corner of GitHub! 🎨 I'm a passionate developer and designer with a knack for crafting sleek, responsive web applications. Whether it's fine-tuning the UX/UI of a website or diving deep into JavaScript, I love solving problems and bringing ideas to life in the digital world.
+### 👨‍💻 Passionate Frontend Developer | 📱 Mobile App Developer |🎨 UI Enthusiast | 🎮 Gamer
+Welcome to my little corner of GitHub! 🎨 I'm a passionate developer and designer with a knack for crafting sleek, responsive web applications and mObile applications. Whether it's fine-tuning the UX/UI of a website or diving deep into JavaScript, I love solving problems and bringing ideas to life in the digital world.
 
 # 🌐 Connect with Me
 <div align="center">
