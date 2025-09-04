@@ -4,7 +4,7 @@
 
 Welcome to my little corner of GitHub! 🚀  
 I’m passionate about building **scalable web apps**, **mobile apps**, and crafting sleek **UI/UX** experiences.  
-Currently, I’m diving deeper into **Node.js** and backend development while continuing to refine my frontend expertise with React & Next.js.  
+Currently, I’m diving deeper into **Node.js** and backend development while continuing to refine my frontend expertise with React.
 
 ---
 
