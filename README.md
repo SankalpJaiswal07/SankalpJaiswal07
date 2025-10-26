@@ -1,10 +1,18 @@
-# Hi there! 👋 I'm Sankalp Jaiswal  
+# Hi, I'm Sankalp Jaiswal 👋
 
-### 👨‍💻 Fullstack Developer | 📱 Mobile App Developer | 🎨 UI Enthusiast | 🎮 Gamer  
+### Full-Stack Developer | MCA '24 | Building web and mobile applications
 
-Welcome to my little corner of GitHub! 🚀  
-I’m passionate about building **scalable web apps**, **mobile apps**, and crafting sleek **UI/UX** experiences.  
-Currently, I’m diving deeper into **Node.js** and backend development while continuing to refine my frontend expertise with React.
+I build production-ready applications with React.js, Node.js, and modern web technologies. Recently completed a 6-month internship at Miraigate Technologies where I shipped e-commerce platforms, dashboards, and real-time features for actual clients.
+
+### What I'm working on
+Currently exploring backend architecture with Node.js—working on authentication systems, REST APIs, and database design. I've built several full-stack projects including a developer matchmaking platform with real-time chat and a hotel reservation system with live booking management.
+
+### Recent projects
+DevMatcha — Developer social platform with Socket.io real-time chat, JWT authentication, and swipe-based UI
+Velvet Oasis — Hotel reservation system with Supabase integration and role-based access.
+
+Portfolio — High-performance Next.js site with Framer Motion animations and smooth scrolling
+Check out my pinned repos below to see what I've been building.
 
 ---
 
@@ -33,16 +41,5 @@ Currently, I’m diving deeper into **Node.js** and backend development while co
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
-
----
-
-### 🌱 Currently Learning  
-- Mastering **Node.js** (backend, APIs, authentication, database integration).  
-
----
-
-### 🎮 Fun Facts  
-- 🎧 I enjoy blending code & creativity.  
-- 🎮 A gamer at heart — I love exploring immersive virtual worlds.  
 
 ---
